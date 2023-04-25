@@ -1,0 +1,16 @@
+13:55:07,491 DEBUG devpinoyLogger:58 - Config File loaded
+13:55:07,497 DEBUG devpinoyLogger:67 - OR file loaded
+13:55:16,642 DEBUG devpinoyLogger:92 - Chrome Browser  Launched
+13:55:25,903 DEBUG devpinoyLogger:95 - Navigated to Expected URL: https://www.zoho.com/
+13:55:40,435 DEBUG devpinoyLogger:122 - performed clicking action
+13:55:40,438 DEBUG devpinoyLogger:40 - Clicked on SignIn
+13:55:40,468 DEBUG devpinoyLogger:21 - Landed on SignIn page
+13:55:41,970 DEBUG devpinoyLogger:134 - performed clicking action
+13:55:42,245 DEBUG devpinoyLogger:122 - performed clicking action
+13:55:42,496 DEBUG devpinoyLogger:134 - performed clicking action
+13:55:44,605 DEBUG devpinoyLogger:122 - performed clicking action
+13:55:58,335 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+13:55:58,338 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+13:55:58,355 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+13:55:58,357 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+13:55:58,357 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Vaibhav/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

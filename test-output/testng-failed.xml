@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Page Object Model Project-1]" guice-stage="DEVELOPMENT">
+  <test name="LoginTest(failed)">
+    <classes>
+      <class name="com.udemy.testcases.LoginTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="loginTest" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.udemy.testcases.LoginTest -->
+    </classes>
+  </test> <!-- LoginTest(failed) -->
+  <test name="CreateAccountTest(failed)">
+    <classes>
+      <class name="com.udemy.testcases.CreateNewAccountTest">
+        <methods>
+          <include name="createNewAccountTest" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.udemy.testcases.CreateNewAccountTest -->
+    </classes>
+  </test> <!-- CreateAccountTest(failed) -->
+</suite> <!-- Failed suite [Page Object Model Project-1] -->
